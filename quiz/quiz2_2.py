@@ -11,7 +11,6 @@ print("%d년 %d월 %d일은 %s 입니다." % (myYear, myMonth, myDay, printDayOf
 2020년 3월 13일은 금요일 입니다.
 '''
 
-
 from datetime import date
 
 myYear = int(input("연도를 입력하시오 : "))
